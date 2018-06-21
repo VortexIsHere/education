@@ -26,5 +26,13 @@ https://en.wikipedia.org/wiki/Periodic_table
 
 ### Chemical Reaction
 
+1. Na
+2. H20
+3. 02
+
+1. Na + H20 => NaOH + H + E (*)
+2. NaOH, H + O2 => H2O + E (*)
+
 ### Nuclear Reaction
 
+* - kaboom!
