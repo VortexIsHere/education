@@ -36,3 +36,5 @@ https://en.wikipedia.org/wiki/Periodic_table
 ### Nuclear Reaction
 
 * - kaboom!
+
+### How many protons and neutrons in an oxygen (O) nuclear?
