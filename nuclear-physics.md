@@ -70,3 +70,29 @@ Mass: 20 Da
 3. Gamma
 
 ## Mass of H2S04 (sulfic acid) molecule
+
+- 2 x H-1  = 2
+- 1 x S-32 = 32
+- 4 x O-16 = 64
+
+total 98
+
+HNO3
+
+H = 1
+N = 14
+O = 48
+total = 53
+
+## Alpha decay
+
+alpha particle = He-4 (stable, mass 4 Da)
+
+## Beta decay
+
+Beta- = electron
+Beta+ = positron
+
+## Gamma decay
+
+Gamma = photon (high energy)
